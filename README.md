@@ -7,3 +7,5 @@ https://github.com/omanras/UAC-No-coockies-v-0.1
 Installation notes :
 after download and uzip project file please read the file "how to install.txt" and keep in mind you aolmost need to install some python lib like (pyexcel-0.5.9.1,pyexcel-sortable-master and excel2table-2.2.1)
 This is beta version so if you got any errors please inform as.
+
+NOTE: The most of the python lib was updated please use this old virsion lib https://pypi.org/project/pyexcel/0.0.7/
